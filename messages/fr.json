@@ -1,0 +1,262 @@
+{
+    "Config": {
+        "appDescription": "Des programmes PDF pour vous aider à reprendre votre vie en main",
+        "privacyPolicyTitle": "Politique de confidentialité de MyBodyProgram",
+        "tosTitle": "Conditions d'utilisation de MyBodyProgram",
+        "blogTitle": "Blog de MyBodyProgram",
+        "blogDescription": "Toutes les informations pour vous aider à trouver le programme PDF qui vous correspond."
+    },
+    "Home": {
+        "hero": {
+            "title": {
+                "part1": "Des programmes efficaces",
+                "part2": "qui vont changer votre vie"
+            },
+            "description": "Des programmes créés par des professionnels pour vous aider à atteindre vos objectifs.",
+            "testimonialsAvatarSentence": "personnes ont déjà atteint leurs objectifs !"
+        },
+        "feedback": [
+            {
+                "name": "Mathieu L.",
+                "programName": "Programme : Marathon 🏃‍♂️",
+                "feedback": "J'ai couru mon premier marathon en 6 mois. Quel bonheur d'avoir relevé ce défi !"
+            },
+            {
+                "name": "Sophie M.",
+                "programName": "Programme : Fitness 💪",
+                "feedback": "Le programme Fitness m'a permis de retrouver la forme en seulement 3 mois. Je me sens plus énergique et en meilleure santé. Merci !"
+            },
+            {
+                "name": "Julien P.",
+                "programName": "Programme : Mobility 🤸‍♂️",
+                "feedback": "Avec le programme Mobility, j'ai amélioré ma flexibilité et réduit mes douleurs articulaires. C'est génial !"
+            },
+            {
+                "name": "Claire D.",
+                "programName": "Programme : Stress 😌",
+                "feedback": "Le programme Stress m'a aidé à mieux gérer mon stress quotidien. Je suis beaucoup plus sereine maintenant."
+            },
+            {
+                "name": "Lucas R.",
+                "programName": "Programme : Wellness 🌱",
+                "feedback": "Je me sens tellement mieux depuis que j'ai commencé le programme Wellness. Merci pour ce programme incroyable !"
+            },
+            {
+                "name": "Emma T.",
+                "programName": "Programme : Calisthenic 🏋️‍♀️",
+                "feedback": "Le programme Calisthenic m'a permis de développer ma force et ma coordination. Je suis très satisfaite des résultats."
+            },
+            {
+                "name": "Antoine B.",
+                "programName": "Programme : Running 🏃‍♂️",
+                "feedback": "J'ai amélioré mon endurance et ma vitesse grâce au programme Running. C'est vraiment efficace !"
+            },
+            {
+                "name": "Nathalie F.",
+                "programName": "Programme : 10km 🏅",
+                "feedback": "Le programme 10km m'a aidé à atteindre mon objectif de courir 10 kilomètres sans m'arrêter. Merci !"
+            },
+            {
+                "name": "Vincent G.",
+                "programName": "Programme : Prise de masse 💪",
+                "feedback": "J'ai pris de la masse musculaire en suivant le programme Prise de masse. Les résultats sont impressionnants."
+            },
+            {
+                "name": "Isabelle H.",
+                "programName": "Programme : Fitness 💪",
+                "feedback": "Le programme Fitness m'a redonné confiance en moi. Je me sens plus forte et en meilleure forme."
+            },
+            {
+                "name": "Marc E.",
+                "programName": "Programme : Mobility 🤸‍♂️",
+                "feedback": "Grâce au programme Mobility, j'ai retrouvé une meilleure mobilité et je me sens plus agile."
+            },
+            {
+                "name": "Elodie K.",
+                "programName": "Programme : Stress 😌",
+                "feedback": "Le programme Stress m'a permis de réduire mon anxiété et de mieux gérer les situations stressantes. Merci !"
+            },
+            {
+                "name": "Pauline J.",
+                "programName": "Programme : Wellness 🌱",
+                "feedback": "Je suis ravie du programme Wellness. Il m'a aidé à adopter un mode de vie plus sain et équilibré."
+            },
+            {
+                "name": "Thomas L.",
+                "programName": "Programme : Calisthenic 🏋️‍♀️",
+                "feedback": "Le programme Calisthenic est parfait pour développer la force et la souplesse. Je le recommande vivement."
+            },
+            {
+                "name": "Sophie N.",
+                "programName": "Programme : Running 🏃‍♂️",
+                "feedback": "J'ai progressé rapidement en course à pied grâce au programme Running. C'est vraiment motivant !"
+            },
+            {
+                "name": "Alexandre O.",
+                "programName": "Programme : 10km 🏅",
+                "feedback": "Le programme 10km m'a aidé à améliorer mon temps de course. Je suis très satisfait des résultats."
+            },
+            {
+                "name": "Julie P.",
+                "programName": "Programme : Prise de masse 💪",
+                "feedback": "J'ai gagné en muscle et en force avec le programme Prise de masse. C'est incroyable !"
+            },
+            {
+                "name": "Laurent Q.",
+                "programName": "Programme : Fitness 💪",
+                "feedback": "Le programme Fitness m'a permis de perdre du poids et de me sentir mieux dans ma peau. Merci !"
+            },
+            {
+                "name": "Camille R.",
+                "programName": "Programme : Mobility 🤸‍♂️",
+                "feedback": "Le programme Mobility m'a aidé à améliorer ma posture et à réduire mes douleurs dorsales. C'est génial !"
+            },
+            {
+                "name": "Hélène S.",
+                "programName": "Programme : Stress 😌",
+                "feedback": "Je suis beaucoup plus détendue depuis que j'ai commencé le programme Stress. Merci pour ce programme efficace."
+            }
+        ],
+        "problem": {
+            "problem_title": "Vous avez un objectif mais n'arrivez pas à l'atteindre ?",
+            "problem_description": "Mauvais conseils, programmes trop difficiles, inefficaces, etc.",
+            "problem_step_1": "Motivation au maximum",
+            "problem_step_2": "Programme trop difficile et inadapté",
+            "problem_step_3": "Abandon de votre objectif"
+        },
+        "featuresWithImage": {
+            "title": {
+                "part1": "Vous avez juste besoin d'un programme",
+                "part2": "efficace et adapté à vos besoins"
+            },
+            "features": [
+                {
+                    "title": "Adapté",
+                    "desc": "Routines réalisables et efficaces pour tous niveaux."
+                },
+                {
+                    "title": "Structuré",
+                    "desc": "Programmes optimisés pour maximiser les résultats."
+                },
+                {
+                    "title": "Efficace",
+                    "desc": "Atteignez vos objectifs plus rapidement."
+                },
+                {
+                    "title": "Motivant",
+                    "desc": "Restez motivé avec des programmes sur mesure."
+                }
+            ]
+        },
+        "stats": {
+            "sectionTitle": "Des programmes utilisés par des milliers de personnes",
+            "sectionSubtitle": "Quel que soit votre objectif, vous trouverez forcément votre programme parfait.",
+            "stats": [
+                {
+                    "label": "Programmes créés"
+                },
+                {
+                    "label": "Personnes satisfaites"
+                },
+                {
+                    "label": "Objectifs atteints"
+                },
+                {
+                    "label": "Programmes créés avec des professionnels"
+                }
+            ]
+        },
+        "testimonials": {
+            "sectionTitle": "Ils ont transformé leurs objectifs en réalité",
+            "sectionSubtitle": "Nos programmes les ont aidés à atteindre leurs buts",
+            "testimonials": [
+                {
+                    "name": "Mathieu L.",
+                    "title": "Père de famille, 35 ans",
+                    "quote": "J'ai couru mon premier marathon en 6 mois grâce au programme. Quel bonheur d'avoir relevé ce défi !"
+                },
+                {
+                    "name": "Thomas M.",
+                    "title": "Étudiant, 22 ans",
+                    "quote": "Le programme de musculation m’a aidé à prendre 5 kg de muscle en 2 mois. Je me sens plus sûr de moi !"
+                },
+                {
+                    "name": "Pierre G.",
+                    "title": "Retraité, 68 ans",
+                    "quote": "Le programme a restauré ma mobilité et ma force. Je joue maintenant avec mes petits-enfants sans me fatiguer !"
+                },
+                {
+                    "name": "Marie D.",
+                    "title": "Cadre, 42 ans",
+                    "quote": "Avec le programme de yoga, j’ai réduit mon stress au travail et amélioré ma qualité de vie."
+                },
+                {
+                    "name": "Sophie B.",
+                    "title": "Étudiante, 20 ans",
+                    "quote": "Grâce au programme de remise en forme, je ne me suis jamais sentie aussi bien dans mon corps."
+                },
+                {
+                    "name": "Jean P.",
+                    "title": "Ingénieur, 45 ans",
+                    "quote": "Le programme de calisthénie m'a aidé à réaliser des choses que je n'aurais jamais pensé possible."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Questions fréquentes",
+            "questions": [
+                {
+                    "question": "Que contient un programme ?",
+                    "answer": "Un programme contient une routine d'exercices, une partie alimentation et des conseils pour vous aider à rester motivé et atteindre vos objectifs."
+                },
+                {
+                    "question": "Comment puis-je savoir si un programme est adapté à mon niveau ?",
+                    "answer": "Aucune crainte, nos programmes sont adaptés à tous les niveaux, du débutant au professionnel."
+                },
+                {
+                    "question": "Quel est le temps de réalisation d'un programme ?",
+                    "answer": "Cela dépend de votre objectif et de votre niveau, mais en général, un programme dure entre 4 et 12 semaines."
+                },
+                {
+                    "question": "Comment ont été créés les programmes ?",
+                    "answer": "Ils ont été créés par l'IA puis ont été ajustés et validés par des professionnels."
+                },
+                {
+                    "question": "Comment puis-je m'inscrire à un programme ?",
+                    "answer": "Il suffit de cliquer sur le programme qui vous intéresse, de choisir votre objectif, de vous inscrire et de suivre les instructions."
+                },
+                {
+                    "question": "Puis-je obtenir un remboursement si je ne suis pas satisfait ?",
+                    "answer": "Oui, nous offrons un remboursement gratuit dans les 7 jours si vous n'êtes pas satisfait."
+                }
+            ]
+        }
+    },
+    "Blog": {
+        "header_categories": "Catégories",
+        "header_all_articles": "Tous les articles",
+        "header_cta": "Recevoir mon programme"
+    },
+    "TOS": {
+        "title": "Conditions d'utilisation de MyBodyProgram",
+        "description": "Bienvenue sur MyBodyProgram, une plateforme dédiée à la vente de programmes PDF axés sur le sport, la nutrition, et le bien-être. En utilisant notre site, vous acceptez de respecter les présentes conditions d'utilisation, que nous avons établies pour garantir une expérience sécurisée et conforme pour tous nos utilisateurs. Veuillez lire attentivement ces conditions avant de poursuivre votre navigation ou d'effectuer un achat.<br></br><br></br> 1. Accès et inscription : Pour acheter des programmes PDF sur notre site, il est nécessaire de s'inscrire. L'inscription se fait via notre système de paiement sécurisé, fourni par Stripe. L'utilisateur doit fournir des informations exactes et à jour lors de son inscription.<br></br><br></br> 2. Propriété intellectuelle : Tout le contenu disponible sur le blog et les programmes PDF est protégé par les droits d'auteur et reste la propriété exclusive du créateur du site. Il est strictement interdit de reproduire, distribuer ou partager ce contenu sans autorisation préalable. Toute violation de ces droits pourra entraîner des poursuites.<br></br><br></br> 3. Usage des programmes PDF : Les programmes achetés sur ce site sont réservés à un usage personnel. Il est interdit de les revendre, partager ou diffuser sous quelque forme que ce soit, que ce soit gratuitement ou commercialement.<br></br><br></br> 4. Paiements et remboursements : Les achats de programmes PDF sont définitifs. Aucune demande de remboursement ou d’échange ne sera acceptée, sauf en cas de problème technique prouvé lors du téléchargement du fichier.<br></br><br></br> 5. Limitation de responsabilité : Les programmes disponibles sur ce site sont proposés à titre de conseils et d'accompagnement. Nous déclinons toute responsabilité en cas de blessure, de dommages ou de résultats non attendus découlant de l'utilisation des programmes. Il est recommandé de consulter un professionnel de santé avant de suivre un programme sportif ou alimentaire.<br></br><br></br> 6. Utilisation abusive : Toute tentative de piratage, abus ou comportement nuisible sur le site entraînera la suspension immédiate du compte de l'utilisateur et pourra donner lieu à des poursuites légales.<br></br><br></br> 7. Modifications des services : Nous nous réservons le droit de modifier, suspendre ou interrompre tout ou partie des services proposés sur le site à tout moment, sans préavis. Cependant, nous ne prévoyons actuellement aucune suspension majeure des services.<br></br><br></br> 8. Données personnelles : Nous utilisons des outils de tracking (Hotjar, Google Analytics, Vercel Tracking) pour améliorer l'expérience utilisateur. Aucune donnée personnelle n'est vendue à des tiers. En utilisant ce site, vous consentez à l'utilisation de ces outils.<br></br><br></br> 9. Juridiction : Les présentes conditions sont régies par la législation française. Tout litige sera soumis à la juridiction des tribunaux compétents de Lyon, France."
+    },
+    "PrivacyPolicy": {
+        "title": "Politique de confidentialité de MyBodyProgram",
+        "description": "Chez MyBodyProgram, nous prenons la confidentialité de nos utilisateurs au sérieux. Cette politique de confidentialité décrit comment nous collectons, utilisons et protégeons vos informations personnelles lorsque vous utilisez notre site.<br></br><br></br> 1. Collecte des informations : Nous collectons des informations personnelles que vous nous fournissez lors de l'inscription et de l'achat de programmes, telles que votre nom, votre adresse e-mail et vos informations de paiement. Nous recueillons également des données via des outils de suivi comme Hotjar, Google Analytics, et Vercel Tracking.<br></br><br></br> 2. Utilisation des informations : Les informations collectées sont utilisées pour traiter vos achats, améliorer l'expérience utilisateur et personnaliser nos services. Nous utilisons également ces données à des fins statistiques et analytiques pour mieux comprendre l'utilisation de notre site.<br></br><br></br> 3. Partage des informations : Nous ne vendons ni ne partageons vos informations personnelles avec des tiers, sauf dans le cadre du traitement des paiements via Stripe, ou si la loi nous y oblige.<br></br><br></br> 4. Sécurité des données : Nous mettons en place des mesures de sécurité techniques et organisationnelles pour protéger vos informations personnelles contre tout accès non autorisé, perte, modification ou divulgation.<br></br><br></br> 5. Cookies et outils de suivi : Nous utilisons des cookies et des technologies de suivi (Hotjar, Google Analytics, Vercel Tracking) pour collecter des informations sur votre utilisation du site et améliorer nos services. Vous pouvez désactiver les cookies via les paramètres de votre navigateur, mais cela peut affecter certaines fonctionnalités du site.<br></br><br></br> 6. Vos droits : Vous avez le droit de demander l'accès, la rectification ou la suppression de vos informations personnelles. Pour toute demande, veuillez nous contacter à l'adresse indiquée sur le site.<br></br><br></br> 7. Modifications de la politique de confidentialité : Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Les modifications seront publiées sur cette page et prendront effet immédiatement.<br></br><br></br> 8. Contact : Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, vous pouvez nous contacter via notre formulaire de contact disponible sur le site."
+    },
+    "Header": {
+        "cta": "Recevoir mon programme"
+    },
+    "Footer": {
+        "Terms_of_services": "Conditions d'utilisation",
+        "Privacy_policy": "Politique de confidentialité",
+        "Programs": "Programmes",
+        "Blog": "Blog",
+        "Legal": "Légal"
+    },
+    "ButtonLead": {
+        "cta": "Obtenir mon programme sur-mesure",
+        "success": "Demande reçue, nous vous enverrons un accès dans les prochains jours."
+    }
+}

@@ -1,0 +1,262 @@
+{
+    "Config": {
+        "appDescription": "PDF programs to help you get your life back on track",
+        "privacyPolicyTitle": "Privacy Policy of MyBodyProgram",
+        "tosTitle": "Terms of Use of MyBodyProgram",
+        "blogTitle": "Blog of MyBodyProgram",
+        "blogDescription": "All the information to help you find the PDF program that suits you."
+    },
+    "Home": {
+        "hero": {
+            "title": {
+                "part1": "Effective PDF programs",
+                "part2": "that will change your life"
+            },
+            "description": "Programs created by professionals to help you achieve your goals.",
+            "testimonialsAvatarSentence": "people have already achieved their goals!"
+        },
+        "feedback": [
+            {
+                "name": "Mathieu L.",
+                "programName": "Program: Marathon 🏃‍♂️",
+                "feedback": "I ran my first marathon in 6 months. What a joy to have taken on this challenge!"
+            },
+            {
+                "name": "Sophie M.",
+                "programName": "Program: Fitness 💪",
+                "feedback": "The Fitness program helped me get back in shape in just 3 months. I feel more energetic and healthier. Thank you!"
+            },
+            {
+                "name": "Julien P.",
+                "programName": "Program: Mobility 🤸‍♂️",
+                "feedback": "With the Mobility program, I improved my flexibility and reduced my joint pain. It's great!"
+            },
+            {
+                "name": "Claire D.",
+                "programName": "Program: Stress 😌",
+                "feedback": "The Stress program helped me better manage my daily stress. I am much calmer now."
+            },
+            {
+                "name": "Lucas R.",
+                "programName": "Program: Wellness 🌱",
+                "feedback": "I feel so much better since I started the Wellness program. Thank you for this amazing program!"
+            },
+            {
+                "name": "Emma T.",
+                "programName": "Program: Calisthenics 🏋️‍♀️",
+                "feedback": "The Calisthenics program allowed me to develop my strength and coordination. I am very satisfied with the results."
+            },
+            {
+                "name": "Antoine B.",
+                "programName": "Program: Running 🏃‍♂️",
+                "feedback": "I improved my endurance and speed thanks to the Running program. It's really effective!"
+            },
+            {
+                "name": "Nathalie F.",
+                "programName": "Program: 10km 🏅",
+                "feedback": "The 10km program helped me achieve my goal of running 10 kilometers without stopping. Thank you!"
+            },
+            {
+                "name": "Vincent G.",
+                "programName": "Program: Muscle Gain 💪",
+                "feedback": "I gained muscle mass by following the Muscle Gain program. The results are impressive."
+            },
+            {
+                "name": "Isabelle H.",
+                "programName": "Program: Fitness 💪",
+                "feedback": "The Fitness program restored my confidence. I feel stronger and in better shape."
+            },
+            {
+                "name": "Marc E.",
+                "programName": "Program: Mobility 🤸‍♂️",
+                "feedback": "Thanks to the Mobility program, I regained better mobility and feel more agile."
+            },
+            {
+                "name": "Elodie K.",
+                "programName": "Program: Stress 😌",
+                "feedback": "The Stress program allowed me to reduce my anxiety and better manage stressful situations. Thank you!"
+            },
+            {
+                "name": "Pauline J.",
+                "programName": "Program: Wellness 🌱",
+                "feedback": "I am delighted with the Wellness program. It helped me adopt a healthier and more balanced lifestyle."
+            },
+            {
+                "name": "Thomas L.",
+                "programName": "Program: Calisthenics 🏋️‍♀️",
+                "feedback": "The Calisthenics program is perfect for developing strength and flexibility. I highly recommend it."
+            },
+            {
+                "name": "Sophie N.",
+                "programName": "Program: Running 🏃‍♂️",
+                "feedback": "I progressed quickly in running thanks to the Running program. It's really motivating!"
+            },
+            {
+                "name": "Alexandre O.",
+                "programName": "Program: 10km 🏅",
+                "feedback": "The 10km program helped me improve my running time. I am very satisfied with the results."
+            },
+            {
+                "name": "Julie P.",
+                "programName": "Program: Muscle Gain 💪",
+                "feedback": "I gained muscle and strength with the Muscle Gain program. It's incredible!"
+            },
+            {
+                "name": "Laurent Q.",
+                "programName": "Program: Fitness 💪",
+                "feedback": "The Fitness program helped me lose weight and feel better in my skin. Thank you!"
+            },
+            {
+                "name": "Camille R.",
+                "programName": "Program: Mobility 🤸‍♂️",
+                "feedback": "The Mobility program helped me improve my posture and reduce my back pain. It's great!"
+            },
+            {
+                "name": "Hélène S.",
+                "programName": "Program: Stress 😌",
+                "feedback": "I am much more relaxed since I started the Stress program. Thank you for this effective program."
+            }
+        ],
+        "problem": {
+            "problem_title": "You have a goal but can't reach it?",
+            "problem_description": "Bad advice, programs too difficult, ineffective, etc.",
+            "problem_step_1": "Maximum motivation",
+            "problem_step_2": "Program too difficult and unsuitable",
+            "problem_step_3": "Giving up on your goal"
+        },
+        "featuresWithImage": {
+            "title": {
+                "part1": "You just need a program",
+                "part2": "effective and tailored to your needs"
+            },
+            "features": [
+                {
+                    "title": "Tailored",
+                    "desc": "Achievable and effective routines for all levels."
+                },
+                {
+                    "title": "Structured",
+                    "desc": "Programs optimized to maximize results."
+                },
+                {
+                    "title": "Effective",
+                    "desc": "Achieve your goals faster."
+                },
+                {
+                    "title": "Motivating",
+                    "desc": "Stay motivated with customized programs."
+                }
+            ]
+        },
+        "stats": {
+            "sectionTitle": "Programs used by thousands of people",
+            "sectionSubtitle": "Whatever your goal, you will surely find your perfect program.",
+            "stats": [
+                {
+                    "label": "Programs created"
+                },
+                {
+                    "label": "Satisfied people"
+                },
+                {
+                    "label": "Goals achieved"
+                },
+                {
+                    "label": "Programs created with professionals"
+                }
+            ]
+        },
+        "testimonials": {
+            "sectionTitle": "They turned their goals into reality",
+            "sectionSubtitle": "Our programs helped them achieve their goals",
+            "testimonials": [
+                {
+                    "name": "Mathieu L.",
+                    "title": "Family man, 35 years old",
+                    "quote": "I ran my first marathon in 6 months thanks to the program. What a joy to have taken on this challenge!"
+                },
+                {
+                    "name": "Thomas M.",
+                    "title": "Student, 22 years old",
+                    "quote": "The weight training program helped me gain 5 kg of muscle in 2 months. I feel more confident!"
+                },
+                {
+                    "name": "Pierre G.",
+                    "title": "Retiree, 68 years old",
+                    "quote": "The program restored my mobility and strength. I can now play with my grandchildren without getting tired!"
+                },
+                {
+                    "name": "Marie D.",
+                    "title": "Executive, 42 years old",
+                    "quote": "With the yoga program, I reduced my stress at work and improved my quality of life."
+                },
+                {
+                    "name": "Sophie B.",
+                    "title": "Student, 20 years old",
+                    "quote": "Thanks to the amazing fitness program, I have never felt so good in my body. Thanks again!"
+                },
+                {
+                    "name": "Jean P.",
+                    "title": "Engineer, 45 years old",
+                    "quote": "The calisthenics program helped me achieve things I never thought possible. I'm so happy with the results!"
+                }
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "questions": [
+                {
+                    "question": "What does a program contain?",
+                    "answer": "A program contains a routine of exercises, a nutrition part, and tips to help you stay motivated and achieve your goals."
+                },
+                {
+                    "question": "How can I know if a program is suitable for my level?",
+                    "answer": "No worries, our programs are suitable for all levels, from beginner to professional."
+                },
+                {
+                    "question": "What is the duration of a program?",
+                    "answer": "It depends on your goal and level, but generally, a program lasts between 4 and 12 weeks."
+                },
+                {
+                    "question": "How were the programs created?",
+                    "answer": "They were created by AI and then adjusted and validated by professionals."
+                },
+                {
+                    "question": "How can I sign up for a program?",
+                    "answer": "Just click on the program that interests you, choose your goal, sign up, and follow the instructions."
+                },
+                {
+                    "question": "Can I get a refund if I am not satisfied?",
+                    "answer": "Yes, we offer a free refund within 7 days if you are not satisfied."
+                }
+            ]
+        }
+    },
+    "Blog": {
+        "header_categories": "Categories",
+        "header_all_articles": "All articles",
+        "header_cta": "Receive my program"
+    },
+    "TOS": {
+        "title": "Terms of Use of MyBodyProgram",
+        "description": "Welcome to MyBodyProgram, a platform dedicated to selling PDF programs focused on sports, nutrition, and well-being. By using our site, you agree to comply with these terms of use, which we have established to ensure a secure and compliant experience for all our users. Please read these terms carefully before continuing to browse or make a purchase.<br></br><br></br> 1. Access and registration: To purchase PDF programs on our site, you must register. Registration is done through our secure payment system, provided by Stripe. The user must provide accurate and up-to-date information during registration.<br></br><br></br> 2. Intellectual property: All content available on the blog and PDF programs is protected by copyright and remains the exclusive property of the site creator. It is strictly forbidden to reproduce, distribute, or share this content without prior authorization. Any violation of these rights may result in legal action.<br></br><br></br> 3. Use of PDF programs: Programs purchased on this site are reserved for personal use. It is prohibited to resell, share, or distribute them in any form, whether for free or commercially.<br></br><br></br> 4. Payments and refunds: Purchases of PDF programs are final. No refund or exchange requests will be accepted, except in the case of proven technical issues during the file download.<br></br><br></br> 5. Limitation of liability: The programs available on this site are offered as advice and support. We disclaim any liability for injury, damage, or unexpected results arising from the use of the programs. It is recommended to consult a health professional before following a sports or dietary program.<br></br><br></br> 6. Abusive use: Any attempt to hack, abuse, or engage in harmful behavior on the site will result in the immediate suspension of the user's account and may lead to legal action.<br></br><br></br> 7. Modifications to services: We reserve the right to modify, suspend, or discontinue all or part of the services offered on the site at any time, without notice. However, we currently do not anticipate any major suspension of services.<br></br><br></br> 8. Personal data: We use tracking tools (Hotjar, Google Analytics, Vercel Tracking) to improve the user experience. No personal data is sold to third parties. By using this site, you consent to the use of these tools.<br></br><br></br> 9. Jurisdiction: These terms are governed by French law. Any dispute will be submitted to the jurisdiction of the competent courts of Lyon, France."
+    },
+    "PrivacyPolicy": {
+        "title": "Privacy Policy of MyBodyProgram",
+        "description": "At MyBodyProgram, we take our users' privacy seriously. This privacy policy describes how we collect, use, and protect your personal information when you use our site.<br></br><br></br> 1. Information collection: We collect personal information that you provide to us during registration and purchase of programs, such as your name, email address, and payment information. We also collect data through tracking tools like Hotjar, Google Analytics, and Vercel Tracking.<br></br><br></br> 2. Use of information: The information collected is used to process your purchases, improve the user experience, and personalize our services. We also use this data for statistical and analytical purposes to better understand the use of our site.<br></br><br></br> 3. Sharing of information: We do not sell or share your personal information with third parties, except in the context of processing payments via Stripe, or if required by law.<br></br><br></br> 4. Data security: We implement technical and organizational security measures to protect your personal information against unauthorized access, loss, alteration, or disclosure.<br></br><br></br> 5. Cookies and tracking tools: We use cookies and tracking technologies (Hotjar, Google Analytics, Vercel Tracking) to collect information about your use of the site and improve our services. You can disable cookies through your browser settings, but this may affect some features of the site.<br></br><br></br> 6. Your rights: You have the right to request access, rectification, or deletion of your personal information. For any request, please contact us at the address indicated on the site.<br></br><br></br> 7. Changes to the privacy policy: We reserve the right to modify this privacy policy at any time. Changes will be posted on this page and will take effect immediately.<br></br><br></br> 8. Contact: If you have any questions or concerns regarding our privacy policy, you can contact us via our contact form available on the site."
+    },
+    "Header": {
+        "cta": "Get my program"
+    },
+    "Footer": {
+        "Terms_of_services": "Terms of Use",
+        "Privacy_policy": "Privacy Policy",
+        "Programs": "Programs",
+        "Blog": "Blog",
+        "Legal": "Legal"
+    },
+    "ButtonLead": {
+        "cta": "Get my custom program",
+        "success": "Request received, we will send you access in the next few days."
+    }
+}
