@@ -11,11 +11,11 @@ module.exports = {
 
     const articlePaths = [];
 
-    const articlesDirectory = path.join(__dirname, 'app', '[locale]', 'blog', '_assets', 'articles');
-    for (const locale of fs.readdirSync(articlesDirectory)) {
-      const categories = fs.readdirSync(path.join(articlesDirectory, locale));
+    const articlesDirectory = path.join(__dirname, 'content', 'articles');
+    for (const locale of fs.readdirSync(articlesDirectory).filter(article => article !== '.DS_Store')) {
+      const categories = fs.readdirSync(path.join(articlesDirectory, locale)).filter(article => article !== '.DS_Store');
       for (const category of categories) {
-        const articles = fs.readdirSync(path.join(articlesDirectory, locale, category));
+        const articles = fs.readdirSync(path.join(articlesDirectory, locale, category)).filter(article => article !== '.DS_Store');
         // Créer les URLs pour chaque article
         const paths = articles.map((article) => {
           return {

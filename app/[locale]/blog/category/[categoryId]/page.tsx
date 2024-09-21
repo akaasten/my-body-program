@@ -3,12 +3,12 @@ import CardArticle from '../../_assets/components/CardArticle';
 import CardCategory from '../../_assets/components/CardCategory';
 import { getSEOTags } from '@/libs/seo';
 import config from '@/config';
-import { unstable_setRequestLocale } from 'next-intl/server';
+import { unstable_setRequestLocale, getTranslations } from 'next-intl/server';
 
 export async function generateMetadata({ params }: { params: { categoryId: string } }) {
     const categories = await loadCategories();
 
-    const category = categories.find((category) => category.slug === params.categoryId);
+    const category = categories.find((category) => category.slug === `/${params.categoryId}`);
 
     return getSEOTags({
         title: `${category.title} | Blog ${config.appName}`,
@@ -19,11 +19,12 @@ export async function generateMetadata({ params }: { params: { categoryId: strin
 
 export default async function Category({ params }: { params: { locale: string; categoryId: string } }) {
     unstable_setRequestLocale(params.locale);
+    const t = await getTranslations('Blog');
 
     const articles = await loadArticles();
 
     const categories = await loadCategories();
-    const category = categories.find((category) => category.slug === params.categoryId);
+    const category = categories.find((category) => category.slug === `/${params.categoryId}`);
     const articlesInCategory = articles
         .filter((article) => article.categories.map((c) => c.slug).includes(category.slug))
         .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
@@ -38,7 +39,7 @@ export default async function Category({ params }: { params: { locale: string; c
 
             <section className='mb-24'>
                 <h2 className='font-bold text-2xl lg:text-4xl tracking-tight text-center mb-8 md:mb-12'>
-                    Articles les plus récents de la catégorie {category.title}
+                    {t('most_recent_articles_in_category')} {category.title}
                 </h2>
 
                 <div className='grid lg:grid-cols-2 gap-8'>

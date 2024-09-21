@@ -235,7 +235,8 @@
     "Blog": {
         "header_categories": "Catégories",
         "header_all_articles": "Tous les articles",
-        "header_cta": "Recevoir mon programme"
+        "header_cta": "Recevoir mon programme",
+        "most_recent_articles_in_category": "Articles les plus récents dans "
     },
     "TOS": {
         "title": "Conditions d'utilisation de MyBodyProgram",

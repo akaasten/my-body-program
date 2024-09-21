@@ -235,7 +235,8 @@
     "Blog": {
         "header_categories": "Categories",
         "header_all_articles": "All articles",
-        "header_cta": "Receive my program"
+        "header_cta": "Receive my program",
+        "most_recent_articles_in_category": "Most recent articles in "
     },
     "TOS": {
         "title": "Terms of Use of MyBodyProgram",

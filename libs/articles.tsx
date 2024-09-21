@@ -12,7 +12,7 @@ import { getLocale } from 'next-intl/server';
 // CONST 🔓
 // ==================================================================================================================================================================
 
-const articlesDirectory: string = path.join(process.cwd(), 'app', '[locale]', 'blog', '_assets', 'articles');
+const articlesDirectory: string = path.join(process.cwd(), 'content', 'articles');
 
 // ==================================================================================================================================================================
 // BLOG CATEGORIES 🏷️
