@@ -19,7 +19,7 @@ const Footer = () => {
                             <strong className='font-extrabold tracking-tight text-base md:text-lg'>{config.appName}</strong>
                         </Link>
 
-                        <p className='mt-3 text-sm text-base-content/80'>{config.appDescription}</p>
+                        <p className='mt-3 text-sm text-base-content/80'>{t('appdescription')}</p>
                         <p className='mt-3 text-sm text-base-content/60'>Copyright © {new Date().getFullYear()} - All rights reserved</p>
                     </div>
                     <div className='flex-grow flex flex-wrap justify-center -mb-10 md:mt-0 mt-10 text-center'>
