@@ -9,10 +9,8 @@ import Testimonials3 from '@/components/Testimonials3';
 import Stats from '@/components/Stats';
 import FeedbackSlider from '@/components/FeedbackSlider';
 import { useTranslations } from 'next-intl';
-import { unstable_setRequestLocale } from 'next-intl/server';
 
-export default function Home({ params: { locale } }: { params: { locale: string } }) {
-    unstable_setRequestLocale(locale);
+export default function Home() {
     const t = useTranslations('Home');
 
     const hero = {
@@ -355,6 +353,10 @@ export default function Home({ params: { locale } }: { params: { locale: string 
                 <Hero {...hero} />
 
                 <FeedbackSlider feedbackArray={feedbackArray} />
+
+                <Problem {...problem} />
+
+                <FeaturesWithImage {...featuresWithImage} />
 
                 <Stats {...stats} />
 

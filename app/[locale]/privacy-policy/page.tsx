@@ -28,7 +28,8 @@ import { getTranslations } from 'next-intl/server';
 
 // This adds default SEO tags to all pages in our app.
 // You can override them in each page passing params to getSOTags() function.
-export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
+
+export const metadata = async () => {
     const t = await getTranslations({
         namespace: 'Config',
     });
@@ -36,7 +37,7 @@ export async function generateMetadata({ params: { locale } }: { params: { local
         title: t('privacyPolicyTitle'),
         canonicalUrlRelative: '/privacy-policy',
     });
-}
+};
 
 const PrivacyPolicy = ({ params }: { params: { locale: string; authorId: string } }) => {
     unstable_setRequestLocale(params.locale);

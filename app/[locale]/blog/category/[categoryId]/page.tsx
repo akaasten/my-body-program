@@ -4,13 +4,14 @@ import CardCategory from '../../_assets/components/CardCategory';
 import { getSEOTags } from '@/libs/seo';
 import config from '@/config';
 import { unstable_setRequestLocale } from 'next-intl/server';
+
 export async function generateMetadata({ params }: { params: { categoryId: string } }) {
     const categories = await loadCategories();
-    console.log(categories);
+
     const category = categories.find((category) => category.slug === params.categoryId);
 
     return getSEOTags({
-        title: `${category.title} | Blog by ${config.appName}`,
+        title: `${category.title} | Blog ${config.appName}`,
         description: category.description,
         canonicalUrlRelative: `/blog/category/${category.slug}`,
     });

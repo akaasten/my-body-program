@@ -8,17 +8,12 @@ import ClientLayout from '@/components/LayoutClient';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import config from '@/config';
-
 import '@/app/globals.css';
 
 //Internationalization
-import { getMessages, unstable_setRequestLocale } from 'next-intl/server';
+import { getMessages } from 'next-intl/server';
 import { NextIntlClientProvider } from 'next-intl';
-import { routing } from '@/i18n/routing';
-
-export function generateStaticParams() {
-    return routing.locales.map((locale) => ({ locale }));
-}
+import { getTranslations } from 'next-intl/server';
 
 const font = Inter({ subsets: ['latin'] });
 
@@ -31,12 +26,13 @@ export const viewport: Viewport = {
 
 // This adds default SEO tags to all pages in our app.
 // You can override them in each page passing params to getSOTags() function.
+//export const metadata = getSEOTags();
+
 export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
     return await getSEOTags();
 }
 
 export default async function LocaleLayout({ children, params: { locale } }: { children: React.ReactNode; params: { locale: string } }) {
-    unstable_setRequestLocale(locale);
     const messages = await getMessages();
     return (
         <html lang={locale} data-theme={config.colors.theme} className={font.className}>

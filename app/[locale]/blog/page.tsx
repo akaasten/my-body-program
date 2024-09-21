@@ -6,7 +6,7 @@ import { loadCategories, categoryType, authorType, loadAuthors, loadArticles } f
 import { unstable_setRequestLocale } from 'next-intl/server';
 import { getTranslations } from 'next-intl/server';
 
-export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
+export const metadata = async () => {
     const t = await getTranslations({
         namespace: 'Config',
     });
@@ -15,7 +15,7 @@ export async function generateMetadata({ params: { locale } }: { params: { local
         description: t('blogDescription'),
         canonicalUrlRelative: '/blog',
     });
-}
+};
 
 export default async function Blog({ params: { locale } }: { params: { locale: string } }) {
     unstable_setRequestLocale(locale);
