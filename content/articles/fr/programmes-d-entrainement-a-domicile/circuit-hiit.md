@@ -4,7 +4,7 @@ title: 'Circuit HIIT: Entraînement Intensif pour Brûler des Calories'
 description: 'Participez à un circuit HIIT intensif pour brûler efficacement des calories.'
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
+      title: "Programmes d'Entraînement à Domicile"
       titleShort: "Programmes d'Entraînement à Domicile"
       description: "Plans d'entraînement pouvant être réalisés à domicile."
       descriptionShort: "Plans d'entraînement à domicile."

@@ -4,7 +4,7 @@ title: 'Exercices pour le Dos sur Banc: Améliorez Votre Posture'
 description: 'Découvrez des exercices pour le dos sur banc pour améliorer votre posture et votre force.'
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
+      title: "Programmes d'Entraînement à Domicile"
       titleShort: "Programmes d'Entraînement à Domicile"
       description: "Plans d'entraînement pouvant être réalisés à domicile."
       descriptionShort: "Plans d'entraînement à domicile."

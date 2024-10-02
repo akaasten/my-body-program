@@ -1,13 +1,13 @@
 ---
 slug: /programmes-d-entrainement-a-domicile/seance-cardio
 title: 'Séance Cardio: Brûlez des Calories et Restez en Forme'
-description: 'Participez à une séance de cardio pour brûler des calories et maintenir votre forme.'
+description: Participez à une séance de cardio pour brûler des calories et maintenir votre forme.
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
-      titleShort: "Programmes d'Entraînement à Domicile"
-      description: "Plans d'entraînement pouvant être réalisés à domicile."
-      descriptionShort: "Plans d'entraînement à domicile."
+      title: Programmes d'Entraînement à Domicile"
+      titleShort: Programmes d'Entraînement à Domicile
+      description: Plans d'entraînement pouvant être réalisés à domicile.
+      descriptionShort: Plans d'entraînement à domicile.
 
 author:
     slug: 'alexandre'

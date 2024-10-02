@@ -39,7 +39,11 @@ export default async function Article({ params }: { params: { categoryId: string
     const article = articles.find((article) => article.slug === `/${params.categoryId}/${params.articleId}`);
 
     const articlesRelated = articles
-        .filter((a) => a.slug !== params.articleId && a.categories.some((c) => article.categories.map((c) => c.slug).includes(c.slug)))
+        .filter((a) => {
+            console.log(a);
+            if (a.slug === params.articleId) return false;
+            return a.categories.some((c) => article.categories.map((c) => c.slug).includes(c.slug));
+        })
         .sort((a, b) => new Date(b.publishedAt).valueOf() - new Date(a.publishedAt).valueOf())
         .slice(0, 3);
 

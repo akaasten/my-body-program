@@ -4,7 +4,7 @@ title: 'Calisthenics: Définition et Bienfaits de cette Pratique'
 description: 'Comprenez la définition des calisthénics et ses bienfaits pour la condition physique.'
 categories:
     - slug: /programmes-de-callisthenie
-      title: 'Programmes de Callisthénie'
+      title: Programmes de Callisthénie
       titleShort: 'Programmes de Callisthénie'
       description: "Programmes d'entraînement au poids du corps pour la force et la flexibilité."
       descriptionShort: "Programmes d'entraînement au poids du corps."

@@ -4,7 +4,7 @@ title: 'Exercices sur Banc de Musculation: Guide Complet'
 description: 'Accédez à un guide complet des exercices sur le banc de musculation pour un entraînement efficace.'
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
+      title: "Programmes d'Entraînement à Domicile"
       titleShort: "Programmes d'Entraînement à Domicile"
       description: "Plans d'entraînement pouvant être réalisés à domicile."
       descriptionShort: "Plans d'entraînement à domicile."

@@ -1,13 +1,13 @@
 ---
 slug: /programmes-d-entrainement-a-domicile/street-work-out
 title: 'Street Workout: Entraînez-vous en Plein Air'
-description: 'Apprenez à vous entraîner en plein air avec des techniques de street workout efficaces.'
+description: Apprenez à vous entraîner en plein air avec des techniques de street workout efficaces.
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
-      titleShort: "Programmes d'Entraînement à Domicile"
-      description: "Plans d'entraînement pouvant être réalisés à domicile."
-      descriptionShort: "Plans d'entraînement à domicile."
+      title: Programmes d'Entraînement à Domicile"
+      titleShort: Programmes d'Entraînement à Domicile
+      description: Plans d'entraînement pouvant être réalisés à domicile.
+      descriptionShort: Plans d'entraînement à domicile.
 
 author:
     slug: 'alexandre'

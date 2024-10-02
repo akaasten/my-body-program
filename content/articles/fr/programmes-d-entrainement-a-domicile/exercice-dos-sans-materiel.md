@@ -4,7 +4,7 @@ title: 'Exercices pour le Dos sans Matériel: Renforcez Votre Dos'
 description: 'Découvrez des exercices efficaces pour le dos qui ne nécessitent aucun matériel pour renforcer votre dos.'
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
+      title: "Programmes d'Entraînement à Domicile"
       titleShort: "Programmes d'Entraînement à Domicile"
       description: "Plans d'entraînement pouvant être réalisés à domicile."
       descriptionShort: "Plans d'entraînement à domicile."

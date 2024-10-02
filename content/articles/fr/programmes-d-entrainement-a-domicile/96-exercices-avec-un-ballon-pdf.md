@@ -4,7 +4,7 @@ title: '96 Exercices avec un Ballon PDF: Entraînement Complet'
 description: "Accédez à un guide d'entraînement complet avec 96 exercices utilisant un ballon au format PDF."
 categories:
     - slug: /programmes-d-entrainement-a-domicile
-      title: "Programmes d'Entraînement à Domicile
+      title: "Programmes d'Entraînement à Domicile"
       titleShort: "Programmes d'Entraînement à Domicile"
       description: "Plans d'entraînement pouvant être réalisés à domicile."
       descriptionShort: "Plans d'entraînement à domicile."

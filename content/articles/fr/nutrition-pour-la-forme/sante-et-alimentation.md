@@ -181,7 +181,7 @@ D'un autre côté, la **musculation** est tout aussi importante. Au début, je p
 Pour ceux qui souhaitent inclure ces deux types d'exercice dans leur vie, voici quelques conseils pratiques :
 
 -   **Alternez entre cardio et musculation** : Par exemple, je fais du cardio trois fois par semaine et de la musculation deux fois.
--   **Testez des séances de HIIT** : Ces entraînements à haute intensité combinent cardio et force, ce qui est très efficace pour brûler des graisses. J'ai personnellement essayé le [cardio HIIT](https://example.com/cardio-hiit-brule-graisse), et j'ai adoré!
+-   **Testez des séances de HIIT** : Ces entraînements à haute intensité combinent cardio et force, ce qui est très efficace pour brûler des graisses.
 -   **Écoutez votre corps** : Il est essentiel de ne pas se surmener. Si je ressens de la fatigue, je prends une pause ou je fais une activité plus douce.
 
 En fin de compte, l'important est de trouver un équilibre entre le cardio et la musculation. Cela m'a aidé à me sentir mieux dans ma peau et à améliorer ma santé globale. Alors, prêt à faire le premier pas vers un mode de vie actif?
