@@ -40,7 +40,6 @@ export default async function Article({ params }: { params: { categoryId: string
 
     const articlesRelated = articles
         .filter((a) => {
-            console.log(a);
             if (a.slug === params.articleId) return false;
             return a.categories.some((c) => article.categories.map((c) => c.slug).includes(c.slug));
         })

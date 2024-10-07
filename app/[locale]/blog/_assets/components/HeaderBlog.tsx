@@ -60,7 +60,7 @@ const ButtonPopoverCategories = ({ categories }: { categories: categoryType[] })
                                             <div key={category.slug} onClick={() => close()}>
                                                 <Link
                                                     className='block text-left p-3 -m-1 cursor-pointer hover:bg-base-200 rounded-box duration-200'
-                                                    href={`/blog/category/${category.slug}`}
+                                                    href={`/blog/category${category.slug}`}
                                                 >
                                                     <div className=''>
                                                         <p className='font-medium mb-0.5'>{category?.titleShort || category.title}</p>

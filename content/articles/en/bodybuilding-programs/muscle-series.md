@@ -158,7 +158,7 @@ Here are some key steps to personalize your training:
 
 As I navigated through the ups and downs of my fitness journey, I realized that the best training plan is one that reflects who you are. By personalizing your muscle training plan, you not only stay motivated but also set yourself up for success.
 
-And if you’re curious about effective exercises, consider exploring the **[Domyos strength training machine exercises](domyos-strength-training-machine-exercise)**. They can be a valuable addition to your routine, helping you fine-tune your approach and maximize those gains. Remember, every rep counts towards your progress in the **Muscle Series: How to Structure Your Training**. Enjoy the journey, and celebrate each milestone along the way!
+Remember, every rep counts towards your progress in the **Muscle Series: How to Structure Your Training**. Enjoy the journey, and celebrate each milestone along the way!
 
 ## Implementing Progressive Overload
 

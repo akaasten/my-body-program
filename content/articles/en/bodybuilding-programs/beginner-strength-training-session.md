@@ -99,7 +99,7 @@ When you’re starting your strength training journey, picking the right equipme
 
 Here’s a fact to consider: Studies show that having the right equipment can increase workout effectiveness by up to 30%. That’s significant!
 
-Make sure your space is inviting and functional. Set up a little area where you feel comfortable and motivated. If you need inspiration, check out this [Domyos strength training machine exercise](domyos-strength-training-machine-exercise) to see what equipment can do for you.
+Make sure your space is inviting and functional. Set up a little area where you feel comfortable and motivated.
 
 Remember, it’s not about how much you have; it’s about how you use what you do have. Start with the basics. As you progress, you can always add more equipment to your routine. Your journey is uniquely yours, so embrace it!
 

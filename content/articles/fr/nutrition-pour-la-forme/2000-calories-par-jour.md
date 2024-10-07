@@ -3,7 +3,7 @@ slug: /nutrition-pour-la-forme/2000-calories-par-jour
 title: '2000 Calories par Jour: Un Plan Alimentaire Efficace'
 description: 'Découvrez un plan alimentaire efficace qui fournit 2000 calories par jour pour une nutrition équilibrée.'
 categories:
-    - slug: //nutrition-pour-la-forme
+    - slug: /nutrition-pour-la-forme
       title: 'Nutrition pour la Forme'
       titleShort: 'Nutrition pour la Forme'
       description: 'Directives sur la nutrition pour soutenir les objectifs de fitness.'

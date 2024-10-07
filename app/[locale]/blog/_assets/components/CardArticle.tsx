@@ -21,7 +21,7 @@ const CardArticle = ({
     return (
         <article className='card bg-base-200 rounded-box overflow-hidden'>
             {article.image?.src && (
-                <Link href={`/blog/${article.slug}`} className='link link-hover hover:link-primary' title={article.title} rel='bookmark'>
+                <Link href={`/blog${article.slug}`} className='link link-hover hover:link-primary' title={article.title} rel='bookmark'>
                     <figure>
                         <Image
                             src={article.image.src}
