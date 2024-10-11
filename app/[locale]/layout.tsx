@@ -2,11 +2,9 @@ import React from 'react';
 import { Inter } from 'next/font/google';
 import { Viewport } from 'next';
 import PlausibleProvider from 'next-plausible';
-import { Analytics } from '@vercel/analytics/react';
 import { getSEOTags } from '@/libs/seo';
 import ClientLayout from '@/components/LayoutClient';
 import { GoogleAnalytics } from '@next/third-parties/google';
-import { SpeedInsights } from '@vercel/speed-insights/next';
 import config from '@/config';
 import '@/app/globals.css';
 
@@ -14,6 +12,7 @@ import '@/app/globals.css';
 import { getMessages } from 'next-intl/server';
 import { NextIntlClientProvider } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
+import Script from 'next/script';
 
 const font = Inter({ subsets: ['latin'] });
 
@@ -38,17 +37,23 @@ export default async function LocaleLayout({ children, params: { locale } }: { c
         <html lang={locale} data-theme={config.colors.theme} className={font.className}>
             {config.domainName && (
                 <head>
-                    <PlausibleProvider
-                        domain={config.domainName}
-                        customDomain={'https://plausible-analytics-ce-production-216f.up.railway.app'}
-                        scriptProps={{ defer: true, async: true }}
-                        revenue={true}
-                        trackOutboundLinks={true}
-                        taggedEvents={true}
-                    />
-                    <Analytics />
-                    <GoogleAnalytics gaId='G-YP5MYP4EQS' />
-                    <SpeedInsights />
+                    {process.env.NODE_ENV !== 'development' && (
+                        <>
+                            <PlausibleProvider
+                                domain={config.domainName}
+                                customDomain={'https://plausible-analytics-ce-production-216f.up.railway.app'}
+                                scriptProps={{ defer: true, async: true }}
+                                revenue={true}
+                                trackOutboundLinks={true}
+                                taggedEvents={true}
+                            />
+                            <Script
+                                src='https://umami-production-a7e8.up.railway.app/script.js'
+                                data-website-id='d3ab1dcd-8895-4c1f-80c2-52d2fffc9499'
+                            />
+                            <GoogleAnalytics gaId='G-YP5MYP4EQS' />
+                        </>
+                    )}
                 </head>
             )}
             <body>

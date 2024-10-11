@@ -248,10 +248,10 @@ const HeaderBlog = ({ categories }: { categories: categoryType[] }) => {
                         {/* Your CTA on small screens */}
                         <div className='flex flex-col'>
                             <a
-                                href='/offres-agences'
+                                href='/'
                                 className='block py-3 px-4 font-medium text-center text-white bg-primary hover:bg-emerald-400 rounded-lg shadow md:inline'
                             >
-                                Trouver mon logement
+                                {t('header_cta')}
                             </a>
                         </div>
                     </div>
