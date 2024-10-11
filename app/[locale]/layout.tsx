@@ -2,7 +2,6 @@ import React from 'react';
 import { Inter } from 'next/font/google';
 import { Viewport } from 'next';
 import PlausibleProvider from 'next-plausible';
-import { Analytics } from '@vercel/analytics/react';
 import { getSEOTags } from '@/libs/seo';
 import ClientLayout from '@/components/LayoutClient';
 import { GoogleAnalytics } from '@next/third-parties/google';
@@ -14,6 +13,7 @@ import '@/app/globals.css';
 import { getMessages } from 'next-intl/server';
 import { NextIntlClientProvider } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
+import Script from 'next/script';
 
 const font = Inter({ subsets: ['latin'] });
 
@@ -46,7 +46,9 @@ export default async function LocaleLayout({ children, params: { locale } }: { c
                         trackOutboundLinks={true}
                         taggedEvents={true}
                     />
-                    <Analytics />
+                    {process.env.NODE_ENV !== 'development' && (
+                        <Script src='https://umami-production-a7e8.up.railway.app/script.js' data-website-id='d3ab1dcd-8895-4c1f-80c2-52d2fffc9499' />
+                    )}
                     <GoogleAnalytics gaId='G-YP5MYP4EQS' />
                     <SpeedInsights />
                 </head>
